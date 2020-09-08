@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\songuyento100\bin\Debug\netcoreapp3.1\songuyento100.exe
+C:\Users\Admin\source\repos\songuyento100\bin\Debug\netcoreapp3.1\songuyento100.deps.json
+C:\Users\Admin\source\repos\songuyento100\bin\Debug\netcoreapp3.1\songuyento100.runtimeconfig.json
+C:\Users\Admin\source\repos\songuyento100\bin\Debug\netcoreapp3.1\songuyento100.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\songuyento100\bin\Debug\netcoreapp3.1\songuyento100.dll
+C:\Users\Admin\source\repos\songuyento100\bin\Debug\netcoreapp3.1\songuyento100.pdb
+C:\Users\Admin\source\repos\songuyento100\obj\Debug\netcoreapp3.1\songuyento100.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\songuyento100\obj\Debug\netcoreapp3.1\songuyento100.AssemblyInfo.cs
+C:\Users\Admin\source\repos\songuyento100\obj\Debug\netcoreapp3.1\songuyento100.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\songuyento100\obj\Debug\netcoreapp3.1\songuyento100.dll
+C:\Users\Admin\source\repos\songuyento100\obj\Debug\netcoreapp3.1\songuyento100.pdb
+C:\Users\Admin\source\repos\songuyento100\obj\Debug\netcoreapp3.1\songuyento100.genruntimeconfig.cache
