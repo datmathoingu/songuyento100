@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace songuyento100
 {
@@ -6,35 +6,29 @@ namespace songuyento100
     {
         static void Main(string[] args)
         {
-            
-
-            int a = 2;
-            while (a < 100)
+            Console.WriteLine("Cac so nguyen to nho hon 100 la: ");
+            kq(1, 100);
+            Console.ReadKey();
+        }
+        static int kq(int num, int i)  
+        {
+            for (num = 1; num <= 100; num++)
             {
-                bool n = true;
-
-                if (a < 2)
+                int n = 0;
+                for (i = 2; i <= num / 2; i++)
                 {
-                    n = false;
-                }
-                else
-                {
-                    int i = 2;
-
-                    while (i <= Math.Sqrt(a))
+                    if (num % i == 0)
                     {
-                        if (a % i == 0)
-                        {
-                            n = false;
-                            break;
-                        }
-                        i = i + 1;
+                        n++;
+                        break;
                     }
                 }
-                if (n)
-                    Console.Write("{0} ", a);
-                a++;
+
+                if (n == 0 && num != 1)
+                    Console.WriteLine(num);
             }
-        }
+
+            return num;
+        }   
     }
 }
